@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-      Wellcome.{{$name}}
+      Welcome.{{$name}}
 </body>
 </html>
